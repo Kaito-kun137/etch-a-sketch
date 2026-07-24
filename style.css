@@ -28,4 +28,9 @@ h1 {
   width: 20px;
   height: 20px;
   border: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.square.active {
+  background-color: #333;
 }
